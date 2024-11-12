@@ -1,8 +1,7 @@
-# ThomasGregTest
+# API_Test
 Teste de desenvolvimento de um projeto
 
-Mazzatech-ThomasGreg
-API Thomas Greg Mazzatech
+API de exemplo
 
 Este sistema foi implementado como uma solução CRUD (Criar, Ler, Atualizar, Excluir). As solicitações HTTP são responsáveis ​​pela coordenação eficaz, possibilitada por meio de duas APIs principais: as de Cliente e de Local, que possuem seus endpoints para tarefas específicas.
 
